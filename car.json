@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "id": "1d02",
+      "year": 1990,
+      "make": "Mercedes Benz",
+      "model": "190E",
+      "engine": "2.5L I4 N/A",
+      "description": "A homologation special built for DTM racing, featuring aggressive aerodynamics, a high-revving Cosworth-built engine, and a legendary motorsport pedigree.",
+      "specs": "235HP,5-Speed Manual,Rear-Wheel Drive",
+      "image": "./images/190E.jpg"
+    },
+    {
+      "id": "d912",
+      "year": 1998,
+      "make": "Mercedes Benz",
+      "model": "CLK GTR",
+      "engine": "6.9L V12 N/A",
+      "description": "One of the rarest and most expensive Mercedes models ever, built to dominate FIA GT racing with its road-legal variant being a true collector’s dream.",
+      "specs": "604HP,6-Speed Sequential,Rear-Wheel Drive",
+      "image": "./images/CLK GTR.jpg"
+    },
+    {
+      "id": "b22d",
+      "year": 2003,
+      "make": "Mercedes Benz",
+      "model": "SLR McLaren",
+      "engine": "5.4L V8 Supercharged",
+      "description": "A collaboration between Mercedes and McLaren, blending grand touring luxury with supercar performance, featuring a long-nose design and carbon-fiber body.",
+      "specs": "617HP,5-Speed Automatic,Rear-Wheel Drive",
+      "image": "./images/slr mclaren.jpg"
+    },
+    {
+      "id": "569a",
+      "year": 2008,
+      "make": "Mercedes Benz",
+      "model": "CLK63 AMG Black Series",
+      "engine": "6.2L V8 N/A",
+      "description": "A hardcore version of the CLK, inspired by Formula 1 safety cars, featuring a stripped-down interior, wider fenders, and an aggressive exhaust note.",
+      "specs": "500HP,7-Speed Automatic,Rear-Wheel Drive",
+      "image": "./images/clk63.jpg"
+    },
+    {
+      "id": "4077",
+      "year": 2011,
+      "make": "Mercedes Benz",
+      "model": "SLS AMG",
+      "engine": "6.2L V8 N/A",
+      "description": "The spiritual successor to the 300SL Gullwing, featuring iconic upward-opening doors, a lightweight aluminum chassis, and breathtaking performance.",
+      "specs": "563HP,7-Speed Dual-Clutch Automatic,Rear-Wheel Drive",
+      "image": "./images/sls amg.jpg"
+    },
+    {
+      "id": "17a7",
+      "year": 2013,
+      "make": "Mercedes Benz",
+      "model": "G63 AMG 6x6",
+      "engine": "5.5L V8 Twin-Turbo",
+      "description": "An ultra-rugged, go-anywhere monster built for extreme off-roading, originally designed for military use but later released as a high-end luxury SUV.",
+      "specs": "536HP,7-Speed Automatic,Six-Wheel Drive",
+      "image": "./images/g63 6x6.jpg"
+    },
+    {
+      "id": "d42d",
+      "year": 2016,
+      "make": "Mercedes Benz",
+      "model": "AMG GT S",
+      "engine": "4.0L V8 Twin-Turbo",
+      "description": "A front-mid-engine sports car aimed at Porsche’s 911, delivering incredible handling, a muscular stance, and a roaring V8 soundtrack.",
+      "specs": "503HP,7-Speed Dual-Clutch Automatic,Rear-Wheel Drive",
+      "image": "./images/amg gt s.jpg"
+    },
+    {
+      "id": "d391",
+      "year": 2017,
+      "make": "Mercedes Benz",
+      "model": "Maybach S650 Cabriolet",
+      "engine": "6.0L V12 Twin-Turbo",
+      "description": "A rare and ultra-luxurious open-top cruiser with handcrafted interiors, opulent features, and effortless V12 power.",
+      "specs": "621HP,7-Speed Automatic,Rear-Wheel Drive",
+      "image": "./images/s650 cabriolet.jpg"
+    },
+    {
+      "id": "0d18",
+      "year": 2019,
+      "make": "Mercedes Benz",
+      "model": "AMG E63 S Wagon",
+      "engine": "4.0L V8 Twin-Turbo",
+      "description": " A family-friendly sleeper with supercar-like acceleration, featuring a sophisticated AWD system and a practical yet aggressive stance.",
+      "specs": "603HP,9-Speed Automatic,All-Wheel Drive",
+      "image": "./images/e63s wagon.jpeg"
+    }
+  ]
+}
