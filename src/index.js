@@ -32,7 +32,6 @@ function displayCars(cars) {
                 </ul>
             </div>
         `; //setting the inner html of the div element
-
     container.appendChild(carCard); //appending the div element to the container
   });
 }
@@ -47,12 +46,6 @@ function toggleDetails(id) {
 document.addEventListener("DOMContentLoaded", () => {
   //adding the footer
   const footer = document.createElement("footer"); //creating a footer element
-  footer.className = "footer"; //adding a class to the footer element
-  footer.innerHTML = `
-        <p>Contact:<a href="mailto:daudwahab1320@gmail.com">daudwahab1320@gmail.com</a></p>
-    `; //setting the inner html of the footer
-    
-
   const feedbackBox = document.createElement("div");
   feedbackBox.className = "feedback-box";
   feedbackBox.innerHTML = `
@@ -60,6 +53,10 @@ document.addEventListener("DOMContentLoaded", () => {
         <input type="text" placeholder="Your Name" id="feedback-name">
         <textarea placeholder="Your Feedback" id="feedback-message"></textarea>
         <button id="submit-feedback">Submit</button>
+        <br>
+        <br>
+        <a href="mailto:daudwahab1320@gmail.com">daudwahab1320@gmail.com</a>
+        <p>&copy 2025</p>
     `;
   feedbackBox.style.backgroundColor = "#333"; //setting the background color of the feedback box
   feedbackBox.style.color = "white";
